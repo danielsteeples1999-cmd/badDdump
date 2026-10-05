@@ -10,7 +10,7 @@
 ## Role prompt templates
 
 - [ChatGPT orchestrator](prompts/agents/CHATGPT_ORCHESTRATOR_TEMPLATE.md) — choose and define the smallest useful next task.
-- [Claude implementation](prompts/agents/CLAUDE_TASK_TEMPLATE.md) — implement one confirmed, bounded change and run its acceptance test.
+- [Claude implementation](prompts/agents/CLAUDE_TASK_TEMPLATE.md) — implement one requested, bounded change and run its acceptance test.
 - [Grok adversarial review](prompts/agents/GROK_TASK_TEMPLATE.md) — challenge a claim or design and look for counterexamples.
 - [Manus forensic mapping](prompts/agents/MANUS_TASK_TEMPLATE.md) — trace a specified artifact and distinguish static from runtime evidence.
 - [Replit runtime testing](prompts/agents/REPLIT_TASK_TEMPLATE.md) — run a bounded test and capture observed runtime evidence.
